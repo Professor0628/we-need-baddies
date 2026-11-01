@@ -1,0 +1,7 @@
+Window,Train Days,Test Period,Val Return %,Val Sharpe,Fit Sharpe,Generalization,Max DD %,Calmar,Costs %,Turnover %,Exposure %,File
+Window 1 (Years 1-10),0-2519,Years 11-15 (Days 2520-3707),41.42,0.68,1.4,-0.72,-17.34,0.44,11.31,3.17,76.46,comparison_window_1_yrs_1_10.png
+Window 2 (Years 2-11),252-2771,Year 1 (Days 50-251) + Years 12-15 (Days 2772-3707),67.55,1.07,1.26,-0.2,-18.05,0.67,9.17,2.69,67.67,comparison_window_2_yrs_2_11.png
+Window 3 (Years 3-12),504-3023,Years 1-2 (Days 50-503) + Years 13-15 (Days 3024-3707),100.54,1.15,1.22,-0.07,-19.57,0.85,9.58,2.81,68.42,comparison_window_3_yrs_3_12.png
+Window 4 (Years 4-13),756-3275,Years 1-3 (Days 50-755) + Years 14-15 (Days 3276-3707),146.62,1.33,1.14,0.19,-19.57,1.13,9.06,2.66,69.69,comparison_window_4_yrs_4_13.png
+Window 5 (Years 5-14),1008-3527,Years 1-4 (Days 50-1007) + Year 15 (Days 3528-3707),409.29,1.8,0.81,0.99,-19.57,2.22,8.34,2.45,71.22,comparison_window_5_yrs_5_14.png
+Window 6 (Years 6-15),1188-3707,Years 1-5 (Days 50-1187),383.78,1.81,0.79,1.02,-20.21,2.07,9.16,2.69,71.14,comparison_window_6_yrs_6_15.png

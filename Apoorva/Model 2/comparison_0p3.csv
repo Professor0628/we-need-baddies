@@ -1,0 +1,7 @@
+,total_return_%,sharpe,sortino,calmar,max_drawdown_%,trading_accuracy_%,costs_paid_%,avg_exposure_%,fit_sharpe,generalization
+decide_low_vol_trend,832.541,2.162,3.492,2.187,-27.102,52.13,2.557,100.0,0.92,1.242
+decide_adaptive_alpha  <- submitted,670.609,2.152,3.508,2.297,-23.102,52.13,2.321,92.163,0.943,1.209
+BENCHMARK equal weight,861.651,2.135,3.456,2.22,-27.15,52.13,0.3,100.0,0.886,1.249
+decide_ml_ridge,621.352,2.097,3.416,2.215,-23.006,52.13,12.478,92.163,0.83,1.266
+decide_trend_filter,565.071,1.775,2.839,1.72,-28.149,52.321,17.564,87.676,0.25,1.525
+decide_momentum,-3.761,0.118,0.179,-0.016,-49.588,50.565,156.3,100.0,-0.875,0.994
